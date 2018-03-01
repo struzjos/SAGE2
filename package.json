@@ -1,0 +1,14 @@
+{
+  "name": "random_viewer",
+  "version": "1.0.0",
+  "main": "random_viewer.js",
+  "devDependencies": {
+    "eslint": "latest"
+  },
+  "scripts": {
+    "lint": "eslint -c eslintrc random_viewer.js"
+  },
+  "author": "Josef Struz <struzjos@fit.cvut.cz>",
+  "license": "BSD-2-Struz",
+  "description": "SAGE2 application random_viewer"
+}

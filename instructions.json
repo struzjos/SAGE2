@@ -1,0 +1,19 @@
+{
+	"main_script": "random_viewer.js",
+	"icon": "random_viewer.png",
+	"width": 800,
+	"height": 600,
+	"resize": "free",
+	"animation": false,
+	"dependencies": [
+	],
+	"load": {
+		"value": 4
+	},
+	"title": "random_viewer",
+	"version": "1.0.0",
+	"description": "SAGE2 application random_viewer",
+	"keywords": [ "sage2", "random_viewer" ],
+	"author": "Josef Struz <struzjos@fit.cvut.cz>",
+	"license": "SAGE2-Software-License"
+}
